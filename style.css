@@ -18,10 +18,6 @@
     'Helvetica Neue';
 }
 
-a {
-  -webkit-tap-highlight-color: transparent;
-}
-
 html {
   scroll-behavior: smooth;
   scrollbar-width: thin;
